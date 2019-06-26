@@ -1,0 +1,51 @@
+{
+    "posts": [
+        {
+            "id": 1,
+            "title": "Selenium with C#",
+            "author": "Karthik KK"
+        },
+        {
+            "id": 2,
+            "title": "Appium",
+            "author": "Karthik KK"
+        },
+        {
+            "id": 3
+        }
+    ],
+    "comments": [
+        {
+            "id": 1,
+            "body": "Excellent course",
+            "postId": 1
+        }
+    ],
+    "profile": {
+        "name": "Jacob"
+    },
+    "adress": {
+        "primary": [
+            {
+                "city": "Auckland",
+                "state": "Auckland",
+                "country": "New Zealand",
+                "pinCode": 1010
+            },
+            {
+                "city": "Queenstown",
+                "state": "Queenstown",
+                "country": "New Zealand",
+                "pinCode": 34232
+            }
+        ],
+        "secondary": [
+            {
+                "city": "Chennai",
+                "state": "Tamil Nadu",
+                "country": "India",
+                "pinCode": 1010
+            }
+        ]
+    }
+}

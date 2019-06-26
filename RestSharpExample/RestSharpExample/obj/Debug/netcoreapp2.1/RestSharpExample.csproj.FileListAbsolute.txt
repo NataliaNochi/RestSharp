@@ -1,0 +1,14 @@
+C:\Users\natal\Desktop\Teste\RestSharp\RestSharpExample\RestSharpExample\bin\Debug\netcoreapp2.1\xunit.runner.visualstudio.dotnetcore.testadapter.dll
+C:\Users\natal\Desktop\Teste\RestSharp\RestSharpExample\RestSharpExample\bin\Debug\netcoreapp2.1\xunit.runner.reporters.netcoreapp10.dll
+C:\Users\natal\Desktop\Teste\RestSharp\RestSharpExample\RestSharpExample\bin\Debug\netcoreapp2.1\xunit.runner.utility.netcoreapp10.dll
+C:\Users\natal\Desktop\Teste\RestSharp\RestSharpExample\RestSharpExample\bin\Debug\netcoreapp2.1\RestSharpExample.deps.json
+C:\Users\natal\Desktop\Teste\RestSharp\RestSharpExample\RestSharpExample\bin\Debug\netcoreapp2.1\RestSharpExample.runtimeconfig.json
+C:\Users\natal\Desktop\Teste\RestSharp\RestSharpExample\RestSharpExample\bin\Debug\netcoreapp2.1\RestSharpExample.runtimeconfig.dev.json
+C:\Users\natal\Desktop\Teste\RestSharp\RestSharpExample\RestSharpExample\bin\Debug\netcoreapp2.1\RestSharpExample.dll
+C:\Users\natal\Desktop\Teste\RestSharp\RestSharpExample\RestSharpExample\obj\Debug\netcoreapp2.1\RestSharpExample.csprojAssemblyReference.cache
+C:\Users\natal\Desktop\Teste\RestSharp\RestSharpExample\RestSharpExample\obj\Debug\netcoreapp2.1\RestSharpExample.csproj.CoreCompileInputs.cache
+C:\Users\natal\Desktop\Teste\RestSharp\RestSharpExample\RestSharpExample\obj\Debug\netcoreapp2.1\RestSharpExample.AssemblyInfoInputs.cache
+C:\Users\natal\Desktop\Teste\RestSharp\RestSharpExample\RestSharpExample\obj\Debug\netcoreapp2.1\RestSharpExample.AssemblyInfo.cs
+C:\Users\natal\Desktop\Teste\RestSharp\RestSharpExample\RestSharpExample\bin\Debug\netcoreapp2.1\RestSharpExample.pdb
+C:\Users\natal\Desktop\Teste\RestSharp\RestSharpExample\RestSharpExample\obj\Debug\netcoreapp2.1\RestSharpExample.dll
+C:\Users\natal\Desktop\Teste\RestSharp\RestSharpExample\RestSharpExample\obj\Debug\netcoreapp2.1\RestSharpExample.pdb
